@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div style={{ padding: 20, border: '1px solid #ccc' }}>
-      <h1>✅ To-Do List FUNCIONAL ✅</h1> 
+      <h1>✅ Lista de tareas pendientes FUNCIONAL ✅</h1> 
       
       {/* Input y Botón de Agregar */}
       <input
